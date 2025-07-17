@@ -20,7 +20,7 @@ Proyecto desarrollado en [Scratch](https://scratch.mit.edu/), una plataforma edu
  ![Captura del juego](juego_dino_run.png)
 
 - Jueego (Coop)
-![Captura del juego](juego_dino_run.png)
+![Captura del juego](juego_coop_dino_run.png)
 
 **Uso**
 Para abrir este proyecto:
