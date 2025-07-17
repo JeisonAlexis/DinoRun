@@ -28,6 +28,11 @@ Proyecto desarrollado en [Scratch](https://scratch.mit.edu/), una plataforma edu
 - Menu GameOver
  ![Captura del juego](menu_gameover_dino_run.png)
 
+**🎥 Trailer**
+
+[![Ver video](https://img.youtube.com/vi/ID_DEL_VIDEO/hqdefault.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO)
+
+
 **Uso**
 Para abrir este proyecto:
 1. Ingresa a [https://scratch.mit.edu](https://scratch.mit.edu)
