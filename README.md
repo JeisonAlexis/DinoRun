@@ -10,6 +10,7 @@ Proyecto desarrollado en [Scratch](https://scratch.mit.edu/), una plataforma edu
 - Tema: Juego (solo/coop)
 
 **Capturas**
+Menu del juego
 ![Captura del juego](menu_dino_run.png)
 
 **Uso**
