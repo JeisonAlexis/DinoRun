@@ -11,10 +11,10 @@ Proyecto desarrollado en [Scratch](https://scratch.mit.edu/), una plataforma edu
 
 **Capturas**
 - Menu del juego
-- ![Captura del juego](menu_dino_run.png)
+ ![Captura del juego](menu_dino_run.png)
 
 - Menu modos de juego (Solo/Coop)
-- ![Captura del juego](modo_dino_run.png)
+ ![Captura del juego](modo_dino_run.png)
 
 **Uso**
 Para abrir este proyecto:
