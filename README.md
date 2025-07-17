@@ -16,6 +16,12 @@ Proyecto desarrollado en [Scratch](https://scratch.mit.edu/), una plataforma edu
 - Menu modos de juego (Solo/Coop)
  ![Captura del juego](modo_dino_run.png)
 
+- Juego (Solo)
+ ![Captura del juego](juego_dino_run.png)
+
+- Jueego (Coop)
+![Captura del juego](juego_dino_run.png)
+
 **Uso**
 Para abrir este proyecto:
 1. Ingresa a [https://scratch.mit.edu](https://scratch.mit.edu)
