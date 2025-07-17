@@ -7,11 +7,14 @@ Proyecto desarrollado en [Scratch](https://scratch.mit.edu/), una plataforma edu
 - Desarrollo realizado en Scratch 3.0 
 - Interfaz amigable para niños y jóvenes
 - Lógica de programación con bloques
-- Tema: Juego (solo/coop)
+- Tema: Juego (Solo/Coop)
 
 **Capturas**
 - Menu del juego
 ![Captura del juego](menu_dino_run.png)
+
+- Menu modos de juego (Solo/Coop)
+- ![Captura del juego](menu_dino_run.png)
 
 **Uso**
 Para abrir este proyecto:
