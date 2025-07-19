@@ -1,4 +1,4 @@
-🏃 **DINO RUN** 🏃
+# 🏃 **DINO RUN** 🏃
 
 📄 **Descripción**  
 Proyecto desarrollado en [Scratch](https://scratch.mit.edu/), una plataforma educativa para la programación visual. El objetivo del proyecto es realizar un primer acercamiento a la programacion de manera didactica 📚.
