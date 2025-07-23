@@ -28,7 +28,7 @@ Proyecto desarrollado en [Scratch](https://scratch.mit.edu/), una plataforma edu
 **🎥 Trailer**
 
 <a href="https://www.youtube.com/watch?v=_xw2-jOe_vs" target="_blank">
-  <img src="https://img.youtube.com/vi/_xw2-jOe_vs/hqdefault.jpg" width="1000" height="500" alt="Ver video">
+  <img src="https://img.youtube.com/vi/_xw2-jOe_vs/hqdefault.jpg" width="950" height="700" alt="Ver video">
 </a>
 
 
